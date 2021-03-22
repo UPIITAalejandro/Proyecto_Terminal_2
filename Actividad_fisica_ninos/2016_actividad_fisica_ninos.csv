@@ -1,0 +1,1887 @@
+CLAVE_ENTIDAD,ENTIDAD,SEXO,EDAD,HORAS_ENTRE_SEMANA_FRENTE_PANTALLA,HORAS_FIN_SEMANA_FRENTE_PANTALLA,ULTIMOS_12_MESES_ALGUNA_COMPETENCIA_DEPORTIVA,ARTES_MARCIALES,BADMINTON,BAILAR,BASQUETBOL,BEISBOL,BICICLETAS,BOXEO,CAMINAR,CORRER,FRONTON,FUTBOL,GIMNASIA,NATACION,PATINAR,PING_PONG,TENIS,VOLEIBOL,OTRA,NO_RESPONDE,NO_SABE
+1,AGUASCALIENTES,mujer,12,nada,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,AGUASCALIENTES,mujer,12,5-6 hrs,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1,AGUASCALIENTES,hombre,10,9 o mas hrs,9 o mas hrs,1 actividad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,AGUASCALIENTES,mujer,10,5-6 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,AGUASCALIENTES,mujer,11,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,AGUASCALIENTES,hombre,11,5-6 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,AGUASCALIENTES,hombre,12,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+1,AGUASCALIENTES,mujer,12,3-4 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,AGUASCALIENTES,hombre,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1,AGUASCALIENTES,hombre,14,1-2 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,AGUASCALIENTES,hombre,10,7-8 hrs,7-8 hrs,2 actividades,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,hombre,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,hombre,10,5-6 hrs,5-6 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,mujer,12,5-6 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,hombre,11,7-8 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,BAJA CALIFORNIA,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,hombre,10,3-4 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,hombre,10,7-8 hrs,9 o mas hrs,2 actividades,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,hombre,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,hombre,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2,BAJA CALIFORNIA,mujer,12,3-4 hrs,3-4 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+2,BAJA CALIFORNIA,hombre,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,hombre,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,mujer,10,5-6 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,mujer,11,1-2 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,mujer,11,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,mujer,10,7-8 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,mujer,13,1-2 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,hombre,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,hombre,13,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,hombre,13,9 o mas hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2,BAJA CALIFORNIA,mujer,11,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+3,BAJA CALIFORNIA SUR,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,BAJA CALIFORNIA SUR,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,BAJA CALIFORNIA SUR,mujer,11,menos de una hora,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,BAJA CALIFORNIA SUR,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,BAJA CALIFORNIA SUR,mujer,14,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3,BAJA CALIFORNIA SUR,hombre,13,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,BAJA CALIFORNIA SUR,hombre,11,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3,BAJA CALIFORNIA SUR,mujer,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3,BAJA CALIFORNIA SUR,mujer,12,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,BAJA CALIFORNIA SUR,hombre,12,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,BAJA CALIFORNIA SUR,hombre,11,3-4 hrs,3-4 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,BAJA CALIFORNIA SUR,mujer,14,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,BAJA CALIFORNIA SUR,hombre,11,3-4 hrs,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3,BAJA CALIFORNIA SUR,hombre,11,5-6 hrs,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3,BAJA CALIFORNIA SUR,mujer,10,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+3,BAJA CALIFORNIA SUR,mujer,10,1-2 hrs,1-2 hrs,4 o mas actividades,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+3,BAJA CALIFORNIA SUR,hombre,12,menos de una hora,3-4 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3,BAJA CALIFORNIA SUR,mujer,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,BAJA CALIFORNIA SUR,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,BAJA CALIFORNIA SUR,mujer,13,3-4 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,BAJA CALIFORNIA SUR,hombre,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4,CAMPECHE,mujer,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,CAMPECHE,hombre,10,1-2 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,CAMPECHE,mujer,14,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,CAMPECHE,mujer,10,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,CAMPECHE,hombre,10,1-2 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4,CAMPECHE,hombre,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4,CAMPECHE,hombre,13,5-6 hrs,menos de una hora,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4,CAMPECHE,mujer,14,7-8 hrs,9 o mas hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+4,CAMPECHE,mujer,11,1-2 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,CAMPECHE,hombre,13,1-2 hrs,1-2 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+4,CAMPECHE,mujer,10,1-2 hrs,1-2 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4,CAMPECHE,mujer,14,3-4 hrs,5-6 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+4,CAMPECHE,mujer,10,1-2 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,CAMPECHE,hombre,13,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,CAMPECHE,hombre,10,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,CAMPECHE,mujer,10,9 o mas hrs,5-6 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,CAMPECHE,mujer,12,1-2 hrs,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+4,CAMPECHE,mujer,11,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,CAMPECHE,mujer,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,CAMPECHE,mujer,11,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,CAMPECHE,mujer,12,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+4,CAMPECHE,hombre,10,5-6 hrs,7-8 hrs,3 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+5,COAHUILA DE ZARAGOZA,mujer,10,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,COAHUILA DE ZARAGOZA,mujer,11,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,COAHUILA DE ZARAGOZA,mujer,14,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,COAHUILA DE ZARAGOZA,hombre,12,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,COAHUILA DE ZARAGOZA,mujer,13,9 o mas hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5,COAHUILA DE ZARAGOZA,hombre,13,1-2 hrs,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5,COAHUILA DE ZARAGOZA,mujer,14,1-2 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+5,COAHUILA DE ZARAGOZA,hombre,10,3-4 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,COAHUILA DE ZARAGOZA,mujer,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,COAHUILA DE ZARAGOZA,mujer,11,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,COAHUILA DE ZARAGOZA,mujer,12,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5,COAHUILA DE ZARAGOZA,mujer,11,1-2 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5,COAHUILA DE ZARAGOZA,mujer,12,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,COAHUILA DE ZARAGOZA,hombre,10,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,COAHUILA DE ZARAGOZA,mujer,14,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+5,COAHUILA DE ZARAGOZA,hombre,13,7-8 hrs,3-4 hrs,2 actividades,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5,COAHUILA DE ZARAGOZA,hombre,12,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5,COAHUILA DE ZARAGOZA,mujer,14,5-6 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5,COAHUILA DE ZARAGOZA,hombre,13,7-8 hrs,9 o mas hrs,3 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+5,COAHUILA DE ZARAGOZA,mujer,12,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+5,COAHUILA DE ZARAGOZA,hombre,14,3-4 hrs,menos de una hora,1 actividad,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,7-8 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,12,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,12,menos de una hora,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,10,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,10,3-4 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,11,7-8 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,14,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,10,nada,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,13,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,13,1-2 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,13,1-2 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,12,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,12,1-2 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,10,9 o mas hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,12,nada,nada,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,10,3-4 hrs,5-6 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+7,CHIAPAS,hombre,11,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,10,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,13,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,11,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,13,9 o mas hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,11,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,10,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,12,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,9 o mas hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,10,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,11,menos de una hora,menos de una hora,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,12,menos de una hora,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,1-2 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,13,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,12,3-4 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,11,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,11,1-2 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,10,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,10,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,3-4 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,13,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,3-4 hrs,nada,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,10,9 o mas hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,13,7-8 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,11,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,13,3-4 hrs,3-4 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,13,1-2 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,12,1-2 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+7,CHIAPAS,hombre,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,11,menos de una hora,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,13,1-2 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,12,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,13,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,12,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,10,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,13,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,14,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,13,9 o mas hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,10,menos de una hora,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,10,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,14,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,12,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,11,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,11,1-2 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,10,menos de una hora,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,10,1-2 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,10,5-6 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,11,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,13,nada,nada,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,12,1-2 hrs,3-4 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,11,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,10,1-2 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,12,5-6 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,13,5-6 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,12,3-4 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,14,5-6 hrs,5-6 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+7,CHIAPAS,mujer,10,menos de una hora,menos de una hora,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+7,CHIAPAS,hombre,13,3-4 hrs,3-4 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,11,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+7,CHIAPAS,hombre,10,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,11,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,11,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,12,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,10,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,14,menos de una hora,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,13,menos de una hora,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,10,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,12,3-4 hrs,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,10,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,10,menos de una hora,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,10,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,14,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,14,7-8 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+7,CHIAPAS,mujer,14,menos de una hora,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,10,1-2 hrs,nada,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,12,1-2 hrs,1-2 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,13,3-4 hrs,5-6 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,10,1-2 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,12,nada,nada,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,3-4 hrs,3-4 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,nada,nada,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,12,menos de una hora,menos de una hora,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,11,5-6 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,14,menos de una hora,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,10,menos de una hora,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,14,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,13,1-2 hrs,1-2 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,11,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,11,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,13,nada,nada,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,12,menos de una hora,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,11,menos de una hora,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,10,5-6 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,12,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,1-2 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,12,9 o mas hrs,9 o mas hrs,3 actividades,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,13,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,14,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,12,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,12,nada,nada,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,11,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+7,CHIAPAS,hombre,13,nada,nada,1 actividad,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,11,nada,nada,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,nada,nada,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,13,menos de una hora,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,12,1-2 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,13,1-2 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,hombre,10,menos de una hora,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,12,5-6 hrs,3-4 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,12,3-4 hrs,5-6 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,14,1-2 hrs,nada,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,13,1-2 hrs,1-2 hrs,no responde,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,CHIAPAS,mujer,12,nada,nada,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7,CHIAPAS,mujer,11,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,11,nada,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,12,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,10,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,10,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,10,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,13,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,13,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,10,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+8,CHIHUAHUA,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,11,3-4 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,13,5-6 hrs,5-6 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,12,1-2 hrs,3-4 hrs,3 actividades,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+8,CHIHUAHUA,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,13,5-6 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,14,9 o mas hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,13,9 o mas hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,14,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,14,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,13,5-6 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,10,3-4 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,12,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,12,5-6 hrs,5-6 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,14,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,11,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,12,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+8,CHIHUAHUA,mujer,10,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,13,nada,nada,3 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+8,CHIHUAHUA,mujer,12,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,10,9 o mas hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,13,nada,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,14,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,14,menos de una hora,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,14,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,10,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,12,1-2 hrs,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8,CHIHUAHUA,mujer,14,7-8 hrs,5-6 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+8,CHIHUAHUA,mujer,14,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+8,CHIHUAHUA,hombre,11,9 o mas hrs,9 o mas hrs,3 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0
+8,CHIHUAHUA,mujer,11,menos de una hora,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,14,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,12,3-4 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,13,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,10,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,13,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,CIUDAD DE MÉXICO,hombre,12,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,12,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,11,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,14,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,11,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,12,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,13,7-8 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,CIUDAD DE MÉXICO,hombre,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,13,9 o mas hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,13,5-6 hrs,3-4 hrs,3 actividades,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,10,9 o mas hrs,9 o mas hrs,4 o mas actividades,0,0,0,1,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,11,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,13,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,10,9 o mas hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,12,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,10,9 o mas hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,14,9 o mas hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,10,9 o mas hrs,5-6 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,12,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,12,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+9,CIUDAD DE MÉXICO,hombre,11,5-6 hrs,5-6 hrs,2 actividades,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,13,9 o mas hrs,9 o mas hrs,3 actividades,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,14,7-8 hrs,9 o mas hrs,4 o mas actividades,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0
+9,CIUDAD DE MÉXICO,hombre,10,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,11,9 o mas hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,12,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,14,7-8 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,10,7-8 hrs,7-8 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,14,5-6 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+9,CIUDAD DE MÉXICO,mujer,11,3-4 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,10,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,10,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+9,CIUDAD DE MÉXICO,mujer,10,9 o mas hrs,9 o mas hrs,3 actividades,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,14,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,12,7-8 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,14,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,12,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,11,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,10,5-6 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,12,3-4 hrs,5-6 hrs,2 actividades,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,10,9 o mas hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,13,9 o mas hrs,9 o mas hrs,1 actividad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,13,5-6 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,10,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,10,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,13,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,12,menos de una hora,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,hombre,12,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,CIUDAD DE MÉXICO,mujer,11,1-2 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,11,1-2 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,13,menos de una hora,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,12,9 o mas hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,10,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,12,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,10,menos de una hora,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,10,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,13,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,10,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,11,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,13,9 o mas hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,10,5-6 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,13,7-8 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,14,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,11,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,10,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,13,5-6 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,13,menos de una hora,nada,1 actividad,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,11,9 o mas hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,10,7-8 hrs,7-8 hrs,2 actividades,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,12,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,14,7-8 hrs,7-8 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+10,DURANGO,mujer,13,nada,nada,3 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+10,DURANGO,mujer,12,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,12,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,13,1-2 hrs,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,14,1-2 hrs,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,13,7-8 hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,11,7-8 hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,12,3-4 hrs,3-4 hrs,4 o mas actividades,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+10,DURANGO,mujer,11,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,12,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,10,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,12,5-6 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,10,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,13,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+10,DURANGO,hombre,14,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,11,1-2 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,13,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+10,DURANGO,mujer,10,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,10,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,12,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,11,5-6 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,12,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,11,5-6 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,13,7-8 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,10,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,13,menos de una hora,1-2 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+10,DURANGO,hombre,10,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,12,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,12,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,14,1-2 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,mujer,12,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,10,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+10,DURANGO,hombre,14,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+10,DURANGO,hombre,10,1-2 hrs,1-2 hrs,4 o mas actividades,0,0,0,1,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,0
+11,GUANAJUATO,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,12,1-2 hrs,5-6 hrs,1 actividad,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,13,9 o mas hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,13,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,12,1-2 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,10,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,11,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,10,7-8 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,13,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,14,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,10,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,12,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,11,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,12,7-8 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,12,3-4 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,14,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,12,3-4 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,10,3-4 hrs,3-4 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,10,5-6 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,13,menos de una hora,nada,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,14,9 o mas hrs,9 o mas hrs,no responde,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+11,GUANAJUATO,mujer,11,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,10,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,10,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,10,menos de una hora,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,12,1-2 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,11,7-8 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,12,7-8 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,11,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,10,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,12,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,13,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,10,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,12,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,14,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,10,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,10,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,12,5-6 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,11,3-4 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,10,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,10,1-2 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,10,9 o mas hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,14,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+11,GUANAJUATO,hombre,12,9 o mas hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,11,5-6 hrs,menos de una hora,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,13,9 o mas hrs,9 o mas hrs,3 actividades,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,10,3-4 hrs,5-6 hrs,3 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+11,GUANAJUATO,mujer,14,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,12,7-8 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,13,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,12,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,11,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,14,5-6 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,14,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,12,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,10,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,14,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,13,7-8 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,10,3-4 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,10,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,14,5-6 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,11,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,11,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,12,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,10,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,11,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,11,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,10,7-8 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,11,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+11,GUANAJUATO,hombre,12,9 o mas hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,14,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,13,menos de una hora,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,11,9 o mas hrs,nada,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,11,5-6 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,13,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,12,3-4 hrs,3-4 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,11,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,11,3-4 hrs,1-2 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,12,5-6 hrs,7-8 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,13,3-4 hrs,5-6 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,10,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,11,5-6 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,10,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,13,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,14,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,10,menos de una hora,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,12,1-2 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,14,9 o mas hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,10,7-8 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,14,1-2 hrs,1-2 hrs,2 actividades,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,12,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,12,menos de una hora,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,10,3-4 hrs,3-4 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,12,9 o mas hrs,9 o mas hrs,3 actividades,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0
+11,GUANAJUATO,mujer,12,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,10,3-4 hrs,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,10,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,14,9 o mas hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,10,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,10,1-2 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,14,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,12,menos de una hora,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,13,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,hombre,12,3-4 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+11,GUANAJUATO,mujer,12,1-2 hrs,3-4 hrs,2 actividades,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,11,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,12,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,11,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,14,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,10,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,11,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,14,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,10,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,12,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,13,9 o mas hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,11,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,12,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,12,nada,nada,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,13,3-4 hrs,1-2 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,10,9 o mas hrs,9 o mas hrs,no sabe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+12,GUERRERO,hombre,11,1-2 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,10,menos de una hora,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,12,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,10,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,12,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,13,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,12,9 o mas hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,14,1-2 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,12,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,14,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,10,7-8 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,12,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,12,menos de una hora,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,10,menos de una hora,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,10,5-6 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,11,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,14,5-6 hrs,7-8 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,11,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,10,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,11,3-4 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,13,1-2 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,13,5-6 hrs,5-6 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+12,GUERRERO,mujer,10,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+12,GUERRERO,mujer,14,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,10,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,11,1-2 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,10,menos de una hora,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,14,1-2 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,11,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+12,GUERRERO,hombre,10,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,10,1-2 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,10,1-2 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,11,5-6 hrs,7-8 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,12,5-6 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,11,menos de una hora,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,12,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,13,9 o mas hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,10,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,11,5-6 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,10,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,12,nada,nada,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,12,menos de una hora,nada,2 actividades,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,14,menos de una hora,menos de una hora,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,14,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,13,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,11,9 o mas hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,10,1-2 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,12,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+12,GUERRERO,hombre,10,7-8 hrs,7-8 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,12,9 o mas hrs,5-6 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,11,menos de una hora,nada,3 actividades,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+12,GUERRERO,hombre,12,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+12,GUERRERO,mujer,13,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,12,nada,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,13,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,mujer,12,7-8 hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,10,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,GUERRERO,hombre,11,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,hombre,10,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,11,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,hombre,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,14,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,12,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,11,3-4 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,hombre,13,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,12,1-2 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,12,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,hombre,14,menos de una hora,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,13,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,11,1-2 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,hombre,10,5-6 hrs,3-4 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,hombre,10,5-6 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,10,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,13,7-8 hrs,5-6 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,11,1-2 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,13,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,13,nada,nada,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,hombre,11,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,14,7-8 hrs,7-8 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,hombre,11,9 o mas hrs,5-6 hrs,3 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+13,HIDALGO,mujer,12,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,hombre,14,7-8 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13,HIDALGO,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13,HIDALGO,hombre,11,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,hombre,11,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,12,1-2 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,hombre,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+13,HIDALGO,mujer,13,5-6 hrs,7-8 hrs,1 actividad,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,11,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,11,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,HIDALGO,hombre,12,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+13,HIDALGO,mujer,14,3-4 hrs,3-4 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,10,menos de una hora,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,12,9 o mas hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,14,7-8 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,13,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,14,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,12,7-8 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,10,5-6 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,12,9 o mas hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,10,1-2 hrs,menos de una hora,1 actividad,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,13,3-4 hrs,5-6 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,13,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,11,9 o mas hrs,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,12,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,10,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,14,7-8 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,14,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,11,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,14,1-2 hrs,5-6 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+14,JALISCO,mujer,11,5-6 hrs,5-6 hrs,3 actividades,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,12,1-2 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,14,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,13,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,10,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,11,5-6 hrs,1-2 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,14,7-8 hrs,1-2 hrs,2 actividades,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,10,9 o mas hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,11,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,11,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,10,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,13,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,10,5-6 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,10,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+14,JALISCO,hombre,14,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,14,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,14,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,14,5-6 hrs,1-2 hrs,3 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+14,JALISCO,hombre,10,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,13,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,10,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,10,1-2 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,11,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,10,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,10,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,12,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,14,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,12,9 o mas hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,10,menos de una hora,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,10,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,hombre,14,9 o mas hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,10,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+14,JALISCO,hombre,12,5-6 hrs,5-6 hrs,2 actividades,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,12,3-4 hrs,1-2 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,13,5-6 hrs,1-2 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,11,9 o mas hrs,9 o mas hrs,3 actividades,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+14,JALISCO,mujer,13,5-6 hrs,5-6 hrs,3 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+15,MÉXICO,hombre,13,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,11,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,14,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,13,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,11,7-8 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,11,5-6 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,13,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,11,7-8 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,12,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,11,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,10,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,11,1-2 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,10,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,12,5-6 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,12,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+15,MÉXICO,hombre,13,7-8 hrs,3-4 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,13,7-8 hrs,7-8 hrs,2 actividades,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,10,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,10,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,10,menos de una hora,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,14,7-8 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,10,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,10,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,11,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,11,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,11,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,10,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,11,menos de una hora,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,14,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,12,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,11,9 o mas hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,12,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,14,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,12,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,10,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,11,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,12,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,11,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,13,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,12,menos de una hora,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,13,3-4 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,14,9 o mas hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,10,1-2 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+15,MÉXICO,hombre,12,9 o mas hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,11,7-8 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,12,5-6 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,12,1-2 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,11,5-6 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,13,5-6 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,10,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,14,5-6 hrs,1-2 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,13,5-6 hrs,5-6 hrs,2 actividades,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,12,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,14,7-8 hrs,7-8 hrs,1 actividad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,11,3-4 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,12,9 o mas hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,13,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,13,1-2 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,13,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,14,7-8 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,14,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,11,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,12,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,13,5-6 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,13,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,10,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,14,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,13,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,14,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,10,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,14,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,12,3-4 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,10,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,10,9 o mas hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,10,9 o mas hrs,nada,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,11,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,14,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,10,1-2 hrs,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,11,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,12,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,12,5-6 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,10,1-2 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,10,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,12,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,11,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,12,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,12,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,10,3-4 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,13,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,10,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+15,MÉXICO,hombre,14,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,11,5-6 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,13,5-6 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+15,MÉXICO,hombre,13,9 o mas hrs,7-8 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+15,MÉXICO,hombre,12,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,13,7-8 hrs,5-6 hrs,2 actividades,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,12,nada,nada,4 o mas actividades,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0
+15,MÉXICO,mujer,12,9 o mas hrs,9 o mas hrs,4 o mas actividades,0,0,1,1,0,0,0,1,1,0,1,0,0,1,0,0,1,0,0,0
+15,MÉXICO,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,10,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,14,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,11,1-2 hrs,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,14,3-4 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+15,MÉXICO,mujer,12,menos de una hora,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,12,9 o mas hrs,5-6 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+15,MÉXICO,mujer,13,9 o mas hrs,9 o mas hrs,4 o mas actividades,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0
+15,MÉXICO,mujer,10,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,10,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,13,7-8 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,11,1-2 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,10,menos de una hora,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,11,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,10,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,11,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,10,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,13,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,10,1-2 hrs,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,11,5-6 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,11,nada,nada,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,10,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,14,5-6 hrs,9 o mas hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+15,MÉXICO,hombre,13,9 o mas hrs,9 o mas hrs,4 o mas actividades,0,0,0,1,0,1,0,1,0,1,1,1,0,0,0,0,1,0,0,0
+15,MÉXICO,mujer,12,9 o mas hrs,9 o mas hrs,4 o mas actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0
+15,MÉXICO,hombre,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,12,1-2 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,12,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,13,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,14,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,10,1-2 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,13,7-8 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,11,5-6 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,13,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,10,3-4 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,11,3-4 hrs,nada,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,12,1-2 hrs,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,10,9 o mas hrs,7-8 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,11,1-2 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,14,9 o mas hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,14,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,10,1-2 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,13,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,14,9 o mas hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,13,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,11,3-4 hrs,nada,2 actividades,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,14,5-6 hrs,3-4 hrs,2 actividades,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,14,5-6 hrs,menos de una hora,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,11,1-2 hrs,1-2 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+15,MÉXICO,hombre,10,7-8 hrs,9 o mas hrs,3 actividades,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+15,MÉXICO,mujer,12,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15,MÉXICO,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,11,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,12,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,14,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,14,1-2 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,13,3-4 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,13,7-8 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+16,MICHOACÁN DE OCAMPO,mujer,13,5-6 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,10,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,10,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,10,1-2 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,13,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,12,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,14,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,14,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,11,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,13,nada,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,12,1-2 hrs,3-4 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,13,9 o mas hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,10,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,14,7-8 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,11,3-4 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,11,1-2 hrs,3-4 hrs,2 actividades,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,12,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,13,1-2 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,12,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,11,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,11,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,12,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,11,7-8 hrs,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,12,9 o mas hrs,7-8 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,12,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,10,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,12,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,12,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,11,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,13,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,13,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,13,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,13,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,13,menos de una hora,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,10,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,12,1-2 hrs,3-4 hrs,2 actividades,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+16,MICHOACÁN DE OCAMPO,mujer,14,1-2 hrs,3-4 hrs,3 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+16,MICHOACÁN DE OCAMPO,hombre,12,9 o mas hrs,9 o mas hrs,4 o mas actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0
+16,MICHOACÁN DE OCAMPO,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,MORELOS,hombre,10,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,MORELOS,mujer,13,1-2 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,MORELOS,hombre,14,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,MORELOS,hombre,12,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,MORELOS,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,MORELOS,mujer,11,3-4 hrs,7-8 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,MORELOS,hombre,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+17,MORELOS,hombre,13,3-4 hrs,1-2 hrs,2 actividades,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+17,MORELOS,hombre,14,3-4 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,MORELOS,hombre,11,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,MORELOS,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,MORELOS,mujer,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+17,MORELOS,mujer,14,1-2 hrs,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+17,MORELOS,mujer,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,MORELOS,mujer,13,1-2 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,MORELOS,hombre,10,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+17,MORELOS,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+18,NAYARIT,hombre,11,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,NAYARIT,mujer,13,5-6 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+18,NAYARIT,hombre,14,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,NAYARIT,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,NAYARIT,mujer,12,3-4 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+18,NAYARIT,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,NAYARIT,mujer,10,3-4 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18,NAYARIT,hombre,14,5-6 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+18,NAYARIT,mujer,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,mujer,14,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,mujer,11,menos de una hora,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,hombre,13,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,mujer,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,hombre,14,1-2 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,hombre,12,9 o mas hrs,9 o mas hrs,3 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+19,NUEVO LEÓN,mujer,10,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,mujer,12,7-8 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,mujer,11,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,mujer,14,5-6 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,mujer,11,3-4 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+19,NUEVO LEÓN,mujer,10,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,mujer,10,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,hombre,14,7-8 hrs,9 o mas hrs,no responde,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,mujer,12,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,hombre,13,7-8 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,hombre,11,5-6 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+19,NUEVO LEÓN,hombre,10,1-2 hrs,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,hombre,13,7-8 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,mujer,13,3-4 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,hombre,11,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,mujer,10,9 o mas hrs,9 o mas hrs,3 actividades,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,mujer,14,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,mujer,11,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,hombre,11,7-8 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,hombre,11,7-8 hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,hombre,10,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,mujer,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,mujer,10,1-2 hrs,3-4 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,hombre,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,mujer,10,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,hombre,12,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,NUEVO LEÓN,hombre,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,11,1-2 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,11,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,12,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,13,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,12,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,11,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,13,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,10,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,14,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,14,1-2 hrs,nada,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,14,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,12,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,10,3-4 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,10,3-4 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,14,1-2 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,13,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,11,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,12,9 o mas hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,11,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,12,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,10,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,11,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,10,1-2 hrs,nada,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,12,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,13,3-4 hrs,1-2 hrs,1 actividad,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,13,1-2 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,12,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,10,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,11,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,13,1-2 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,14,7-8 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,14,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,13,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,10,menos de una hora,menos de una hora,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,11,7-8 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,12,5-6 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,13,9 o mas hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,11,5-6 hrs,7-8 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+21,PUEBLA,mujer,10,7-8 hrs,1-2 hrs,1 actividad,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,11,7-8 hrs,7-8 hrs,4 o mas actividades,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0
+21,PUEBLA,hombre,11,1-2 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,10,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,13,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,13,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,12,1-2 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,13,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,14,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+21,PUEBLA,hombre,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+21,PUEBLA,hombre,10,3-4 hrs,3-4 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,13,nada,nada,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+21,PUEBLA,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,14,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,13,1-2 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,13,5-6 hrs,7-8 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,14,1-2 hrs,3-4 hrs,3 actividades,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,12,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,13,1-2 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,11,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,13,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,13,nada,nada,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,12,nada,nada,2 actividades,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+21,PUEBLA,mujer,12,menos de una hora,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,10,3-4 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,13,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,10,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,10,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,14,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,10,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,10,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,14,5-6 hrs,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,12,7-8 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,14,9 o mas hrs,3-4 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,mujer,11,5-6 hrs,7-8 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,13,menos de una hora,menos de una hora,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,13,3-4 hrs,3-4 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,11,7-8 hrs,7-8 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+21,PUEBLA,mujer,14,3-4 hrs,5-6 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,14,9 o mas hrs,5-6 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+21,PUEBLA,hombre,13,1-2 hrs,5-6 hrs,3 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+22,QUERÉTARO,mujer,10,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,11,5-6 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,14,1-2 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,13,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,12,7-8 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,12,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,13,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,10,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,14,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,11,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,12,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,12,menos de una hora,1-2 hrs,3 actividades,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+22,QUERÉTARO,mujer,10,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,11,9 o mas hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,12,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,12,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,13,5-6 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,10,menos de una hora,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,13,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,12,7-8 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,13,3-4 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+22,QUERÉTARO,hombre,14,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,12,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,11,1-2 hrs,1-2 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,11,9 o mas hrs,7-8 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,13,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,11,1-2 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,10,nada,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,10,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,14,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,14,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+22,QUERÉTARO,hombre,10,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,11,3-4 hrs,3-4 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,14,7-8 hrs,5-6 hrs,1 actividad,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,13,7-8 hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,11,5-6 hrs,7-8 hrs,2 actividades,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,10,5-6 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,10,5-6 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,12,3-4 hrs,3-4 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,11,1-2 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,10,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,12,3-4 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,10,menos de una hora,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,11,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,10,menos de una hora,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,10,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,14,1-2 hrs,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,12,1-2 hrs,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,12,1-2 hrs,3-4 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,hombre,14,5-6 hrs,menos de una hora,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+22,QUERÉTARO,mujer,12,1-2 hrs,1-2 hrs,3 actividades,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+23,QUINTANA ROO,mujer,14,3-4 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,QUINTANA ROO,mujer,11,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,QUINTANA ROO,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+23,QUINTANA ROO,mujer,11,1-2 hrs,3-4 hrs,3 actividades,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+23,QUINTANA ROO,mujer,11,9 o mas hrs,9 o mas hrs,2 actividades,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,QUINTANA ROO,hombre,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,QUINTANA ROO,hombre,14,5-6 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+23,QUINTANA ROO,hombre,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,QUINTANA ROO,hombre,14,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,QUINTANA ROO,mujer,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+23,QUINTANA ROO,hombre,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,QUINTANA ROO,hombre,10,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+23,QUINTANA ROO,hombre,13,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,QUINTANA ROO,mujer,12,9 o mas hrs,9 o mas hrs,3 actividades,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+23,QUINTANA ROO,hombre,10,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,QUINTANA ROO,mujer,13,5-6 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,QUINTANA ROO,hombre,14,5-6 hrs,7-8 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+23,QUINTANA ROO,hombre,11,7-8 hrs,5-6 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+23,QUINTANA ROO,mujer,10,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,QUINTANA ROO,hombre,10,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23,QUINTANA ROO,mujer,11,3-4 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+23,QUINTANA ROO,mujer,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+23,QUINTANA ROO,hombre,12,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,10,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,13,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,14,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,11,5-6 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,12,menos de una hora,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,11,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,10,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,11,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+24,SAN LUIS POTOSÍ,mujer,10,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,10,5-6 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,11,5-6 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,11,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,10,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,14,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,10,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,12,5-6 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,13,5-6 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,12,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,12,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,10,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,11,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,13,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,13,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,10,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,12,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,10,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,11,1-2 hrs,3-4 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,13,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+24,SAN LUIS POTOSÍ,mujer,13,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,12,9 o mas hrs,9 o mas hrs,3 actividades,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,10,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,12,9 o mas hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,12,menos de una hora,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,10,nada,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,12,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,13,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,10,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,11,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,14,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,14,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,12,3-4 hrs,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,10,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,10,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,14,3-4 hrs,5-6 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+24,SAN LUIS POTOSÍ,hombre,13,1-2 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,12,menos de una hora,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,14,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,12,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,10,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,10,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,12,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,14,3-4 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,12,3-4 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,10,5-6 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,12,1-2 hrs,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,11,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,12,3-4 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+24,SAN LUIS POTOSÍ,mujer,11,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+24,SAN LUIS POTOSÍ,hombre,10,9 o mas hrs,7-8 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,11,1-2 hrs,1-2 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,10,9 o mas hrs,9 o mas hrs,3 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+24,SAN LUIS POTOSÍ,mujer,10,nada,nada,3 actividades,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,12,9 o mas hrs,9 o mas hrs,3 actividades,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+24,SAN LUIS POTOSÍ,mujer,13,menos de una hora,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,10,5-6 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,14,9 o mas hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,12,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,10,9 o mas hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+24,SAN LUIS POTOSÍ,hombre,10,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,11,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,14,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,10,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,11,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,12,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,10,7-8 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,11,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,13,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+24,SAN LUIS POTOSÍ,mujer,10,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,12,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,10,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,11,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,10,5-6 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,11,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,14,7-8 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,13,5-6 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,13,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,10,5-6 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+24,SAN LUIS POTOSÍ,mujer,12,3-4 hrs,nada,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,11,7-8 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,mujer,13,9 o mas hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+24,SAN LUIS POTOSÍ,mujer,14,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,13,7-8 hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,13,7-8 hrs,7-8 hrs,2 actividades,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+24,SAN LUIS POTOSÍ,hombre,14,9 o mas hrs,9 o mas hrs,3 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+24,SAN LUIS POTOSÍ,hombre,13,9 o mas hrs,9 o mas hrs,3 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+24,SAN LUIS POTOSÍ,mujer,10,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,hombre,14,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,11,1-2 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,11,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,12,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,hombre,13,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,hombre,14,5-6 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+25,SINALOA,hombre,10,9 o mas hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+25,SINALOA,hombre,13,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,11,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+25,SINALOA,mujer,12,menos de una hora,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+25,SINALOA,mujer,13,1-2 hrs,menos de una hora,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,12,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,13,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,10,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,13,5-6 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+25,SINALOA,hombre,10,7-8 hrs,5-6 hrs,1 actividad,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,hombre,11,3-4 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+25,SINALOA,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,14,7-8 hrs,7-8 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,11,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,13,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+25,SINALOA,mujer,11,7-8 hrs,menos de una hora,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+25,SINALOA,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,hombre,10,3-4 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+25,SINALOA,hombre,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,10,7-8 hrs,5-6 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+25,SINALOA,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+25,SINALOA,mujer,12,3-4 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,11,7-8 hrs,9 o mas hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+25,SINALOA,hombre,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+25,SINALOA,hombre,14,3-4 hrs,1-2 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+25,SINALOA,mujer,10,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,hombre,11,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,10,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,hombre,10,menos de una hora,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,11,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+25,SINALOA,mujer,14,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+25,SINALOA,mujer,11,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+25,SINALOA,hombre,14,nada,nada,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+25,SINALOA,hombre,11,5-6 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,14,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,14,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,14,9 o mas hrs,nada,1 actividad,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,11,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,10,9 o mas hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,13,9 o mas hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,13,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,10,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,10,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,12,1-2 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,10,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,14,5-6 hrs,5-6 hrs,2 actividades,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,13,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,12,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,10,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,10,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,11,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,12,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,13,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,10,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+26,SONORA,hombre,10,1-2 hrs,3-4 hrs,2 actividades,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,13,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,12,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,10,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,10,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,13,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,10,menos de una hora,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,13,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,13,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,10,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,10,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,11,5-6 hrs,7-8 hrs,1 actividad,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,11,1-2 hrs,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+26,SONORA,hombre,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,10,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,10,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,13,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+26,SONORA,hombre,11,menos de una hora,1-2 hrs,2 actividades,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,12,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,13,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,11,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,14,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,12,5-6 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,13,1-2 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,10,1-2 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,12,5-6 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,10,3-4 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+26,SONORA,mujer,13,5-6 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,12,1-2 hrs,menos de una hora,1 actividad,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,SONORA,mujer,11,9 o mas hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,12,5-6 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+26,SONORA,hombre,12,7-8 hrs,9 o mas hrs,2 actividades,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,14,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,12,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,mujer,13,menos de una hora,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,mujer,12,5-6 hrs,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+27,TABASCO,hombre,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,12,1-2 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,12,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,14,1-2 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,12,nada,nada,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,14,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27,TABASCO,mujer,11,3-4 hrs,3-4 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,mujer,11,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+27,TABASCO,mujer,13,9 o mas hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+27,TABASCO,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,13,nada,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,mujer,10,5-6 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,14,5-6 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,mujer,10,7-8 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,11,9 o mas hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,12,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27,TABASCO,mujer,11,1-2 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,13,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,mujer,14,1-2 hrs,3-4 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+27,TABASCO,hombre,14,3-4 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,10,3-4 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,mujer,11,5-6 hrs,5-6 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,mujer,12,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,13,menos de una hora,menos de una hora,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+27,TABASCO,mujer,11,1-2 hrs,1-2 hrs,3 actividades,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0
+27,TABASCO,hombre,14,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,mujer,10,menos de una hora,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,10,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,10,5-6 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,10,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27,TABASCO,mujer,14,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+27,TABASCO,mujer,12,9 o mas hrs,9 o mas hrs,3 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+27,TABASCO,hombre,13,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,13,menos de una hora,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,11,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27,TABASCO,mujer,12,1-2 hrs,1-2 hrs,2 actividades,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+27,TABASCO,mujer,11,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,mujer,11,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,13,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,13,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,mujer,12,9 o mas hrs,5-6 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,14,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27,TABASCO,mujer,10,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+27,TABASCO,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,10,menos de una hora,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,12,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,10,nada,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,12,3-4 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,10,menos de una hora,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,13,1-2 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,13,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,11,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,13,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,11,menos de una hora,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+28,TAMAULIPAS,hombre,12,3-4 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,12,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,13,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,12,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,14,7-8 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,14,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,14,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,10,7-8 hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,12,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,14,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,11,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,10,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,11,menos de una hora,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,13,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,14,5-6 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+28,TAMAULIPAS,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,11,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+28,TAMAULIPAS,hombre,10,3-4 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,10,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,10,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,13,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+28,TAMAULIPAS,mujer,12,3-4 hrs,3-4 hrs,2 actividades,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,10,9 o mas hrs,7-8 hrs,2 actividades,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+28,TAMAULIPAS,mujer,10,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,14,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,10,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,13,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,11,7-8 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,12,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+28,TAMAULIPAS,hombre,12,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+28,TAMAULIPAS,mujer,10,5-6 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,10,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,13,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,11,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,12,3-4 hrs,3-4 hrs,2 actividades,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,11,1-2 hrs,menos de una hora,2 actividades,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,13,9 o mas hrs,7-8 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+28,TAMAULIPAS,mujer,12,menos de una hora,1-2 hrs,3 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+28,TAMAULIPAS,hombre,12,9 o mas hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,11,menos de una hora,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,13,1-2 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+28,TAMAULIPAS,mujer,10,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+28,TAMAULIPAS,mujer,14,7-8 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+28,TAMAULIPAS,hombre,13,7-8 hrs,7-8 hrs,4 o mas actividades,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+28,TAMAULIPAS,mujer,10,menos de una hora,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,12,7-8 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,10,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,11,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,12,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,13,5-6 hrs,9 o mas hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+28,TAMAULIPAS,mujer,12,7-8 hrs,7-8 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+28,TAMAULIPAS,hombre,10,7-8 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,10,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,12,1-2 hrs,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,14,9 o mas hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+28,TAMAULIPAS,mujer,14,7-8 hrs,9 o mas hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+28,TAMAULIPAS,mujer,10,7-8 hrs,7-8 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+28,TAMAULIPAS,mujer,10,7-8 hrs,9 o mas hrs,2 actividades,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,10,menos de una hora,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,11,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+28,TAMAULIPAS,hombre,12,7-8 hrs,5-6 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+28,TAMAULIPAS,hombre,12,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,14,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,10,3-4 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,11,3-4 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,10,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,10,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,10,menos de una hora,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,13,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,12,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,mujer,11,1-2 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,10,1-2 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,10,5-6 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,11,7-8 hrs,7-8 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+28,TAMAULIPAS,hombre,12,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,10,7-8 hrs,3-4 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,11,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+28,TAMAULIPAS,hombre,10,nada,nada,no sabe,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+29,TLAXCALA,mujer,14,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,mujer,10,7-8 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,hombre,10,3-4 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,mujer,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+29,TLAXCALA,mujer,10,5-6 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,mujer,10,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,mujer,12,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,mujer,10,9 o mas hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,hombre,10,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,hombre,14,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,hombre,12,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,hombre,11,9 o mas hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,mujer,14,5-6 hrs,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,mujer,12,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,mujer,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,hombre,12,menos de una hora,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,hombre,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,mujer,10,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,mujer,10,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,mujer,14,3-4 hrs,1-2 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,hombre,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,hombre,14,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,hombre,13,3-4 hrs,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,hombre,12,menos de una hora,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,hombre,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,mujer,11,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,hombre,10,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+29,TLAXCALA,mujer,11,9 o mas hrs,3-4 hrs,no responde,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,11,menos de una hora,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,10,menos de una hora,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,10,9 o mas hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,10,menos de una hora,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,11,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,12,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,14,7-8 hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,10,1-2 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,12,7-8 hrs,3-4 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,14,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,10,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,12,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,11,3-4 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,12,3-4 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,10,9 o mas hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,11,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,10,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,11,1-2 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,12,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,12,5-6 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,10,1-2 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,11,3-4 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,10,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,7-8 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,5-6 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,11,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,11,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,menos de una hora,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,10,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,12,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,10,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,12,7-8 hrs,5-6 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,13,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,11,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,11,5-6 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,12,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,12,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,5-6 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,11,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,14,9 o mas hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,12,7-8 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,12,7-8 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,12,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,3-4 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,12,5-6 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,12,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,12,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,14,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,11,5-6 hrs,1-2 hrs,2 actividades,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,14,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,10,7-8 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,12,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,14,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,14,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,13,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,10,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,14,5-6 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,11,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,11,7-8 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,11,5-6 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,13,1-2 hrs,menos de una hora,1 actividad,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,14,1-2 hrs,1-2 hrs,3 actividades,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,10,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,10,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,14,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,13,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,10,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,10,3-4 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,14,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,14,1-2 hrs,1-2 hrs,2 actividades,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,10,5-6 hrs,3-4 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,14,9 o mas hrs,7-8 hrs,2 actividades,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,10,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,13,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,11,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,11,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,11,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,10,7-8 hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,11,3-4 hrs,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,12,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,13,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,10,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,11,7-8 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,10,3-4 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,11,1-2 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,10,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,11,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,11,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,13,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,12,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,11,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,10,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,14,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,10,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,nada,nada,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,10,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,11,menos de una hora,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,11,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,10,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,13,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,10,9 o mas hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,13,5-6 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,10,3-4 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,12,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,11,7-8 hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,14,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,12,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,14,3-4 hrs,3-4 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,hombre,14,7-8 hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+30,VERACRUZ DE IGNACIO DE LA LL,mujer,13,7-8 hrs,9 o mas hrs,3 actividades,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+31,YUCATÁN,hombre,14,1-2 hrs,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,YUCATÁN,hombre,10,9 o mas hrs,7-8 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,YUCATÁN,hombre,11,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,YUCATÁN,hombre,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,YUCATÁN,mujer,13,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,YUCATÁN,hombre,12,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,YUCATÁN,hombre,11,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,YUCATÁN,mujer,11,5-6 hrs,5-6 hrs,2 actividades,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+31,YUCATÁN,mujer,12,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,YUCATÁN,hombre,12,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+31,YUCATÁN,hombre,14,9 o mas hrs,9 o mas hrs,3 actividades,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+31,YUCATÁN,hombre,11,5-6 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+31,YUCATÁN,mujer,10,5-6 hrs,1-2 hrs,1 actividad,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,YUCATÁN,mujer,13,5-6 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,YUCATÁN,mujer,10,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,YUCATÁN,mujer,10,menos de una hora,menos de una hora,1 actividad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+31,YUCATÁN,mujer,10,1-2 hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+31,YUCATÁN,hombre,10,9 o mas hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+31,YUCATÁN,hombre,10,7-8 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+31,YUCATÁN,hombre,10,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+31,YUCATÁN,mujer,10,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+31,YUCATÁN,mujer,10,7-8 hrs,7-8 hrs,2 actividades,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,mujer,12,menos de una hora,menos de una hora,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,hombre,11,3-4 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,mujer,11,3-4 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,hombre,13,7-8 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,mujer,14,9 o mas hrs,9 o mas hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,hombre,11,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,hombre,14,5-6 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,hombre,11,7-8 hrs,3-4 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,hombre,10,3-4 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,mujer,13,3-4 hrs,5-6 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,hombre,12,1-2 hrs,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,mujer,10,3-4 hrs,5-6 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,mujer,11,5-6 hrs,9 o mas hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,mujer,10,5-6 hrs,7-8 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,mujer,10,3-4 hrs,5-6 hrs,3 actividades,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,mujer,12,9 o mas hrs,9 o mas hrs,3 actividades,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,hombre,13,3-4 hrs,3-4 hrs,4 o mas actividades,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+32,ZACATECAS,hombre,11,5-6 hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,hombre,13,9 o mas hrs,7-8 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,mujer,12,3-4 hrs,3-4 hrs,2 actividades,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,hombre,11,9 o mas hrs,1-2 hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,hombre,11,5-6 hrs,5-6 hrs,2 actividades,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,hombre,11,nada,nada,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,hombre,11,3-4 hrs,3-4 hrs,2 actividades,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,mujer,11,9 o mas hrs,9 o mas hrs,2 actividades,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,hombre,10,1-2 hrs,1-2 hrs,2 actividades,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,mujer,13,1-2 hrs,1-2 hrs,ninguna,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,hombre,14,9 o mas hrs,9 o mas hrs,1 actividad,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+32,ZACATECAS,hombre,13,3-4 hrs,9 o mas hrs,no responde,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
